@@ -7,7 +7,7 @@ rows = [
     "10000",
     "01000"
 ]
-print(rows)
+
 heigth = int(hw.split(" ")[0])
 width = int(hw.split(" ")[1])
 
